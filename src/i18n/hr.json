@@ -1,0 +1,37 @@
+[{
+  "language": "Croatian",
+  "i18n": "hr",
+  "ns": "reaction-paypal",
+  "translation": {
+    "reaction-paypal": {
+      "admin": {
+        "shortcut": {
+          "paypalLabel": "paypal"
+        },
+        "dashboard": {
+          "paypalLabel": "paypal",
+          "paypalDescription": "plaćanja trakom"
+        },
+        "paymentSettings": {
+          "paypalLabel": "paypal",
+          "paypalSettingsLabel": "paypal",
+          "paypalSettingsDescription": "Nemate ID klijenta pruga API?",
+          "paypalSettingsGetItHere": "Nabavite ga ovdje",
+          "paypalClientIdWarning": "ID klijenta je polje JAVNE. Provjerite upotrebljavate client_id koji se nalazi na stranici postavki paypal Connect.",
+          "paypalClientIdLink": "Postavke povezivanja trake"
+        },
+        "connect": {
+          "paypalConnectNotEnabled": "paypal Connect nije omogućen za ovu aplikaciju. Obratite se administratoru.",
+          "shopEmailNotConfigured": "Prvo konfigurirajte svoju trgovinu e-poštom.",
+          "shopAddressNotConfigured": "Prvo konfigurirajte svoju trgovinu",
+          "applicationFeeDescription": "Taj broj predstavlja postotak naknade koju tržnica (ova trgovina) traži za bilo koju stavku koju prodaje trgovačka trgovina za ovo tržište. Ova se naknada primjenjuje samo ako je paypal Connect postavljen i omogućen na tržnici i trgovačkim trgovinama, a ako je paypal davatelj usluga plaćanja koji se koristi za izvršavanje naplate.",
+          "moreDetails": "Za više detalja pogledajte",
+          "docsLink": "Dokumenti vezani uz paypal Connect"
+        },
+        "redirect": {
+          "paypalConnectWaitingNote": "Hoće li automatski preusmjeriti za nekoliko sekundi ili kliknite ovdje."
+        }
+      }
+    }
+  }
+}]

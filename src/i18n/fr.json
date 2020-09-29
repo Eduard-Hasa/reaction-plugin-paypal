@@ -1,0 +1,37 @@
+[{
+  "language": "French",
+  "i18n": "fr",
+  "ns": "reaction-paypal",
+  "translation": {
+    "reaction-paypal": {
+      "admin": {
+        "shortcut": {
+          "paypalLabel": "paypal"
+        },
+        "dashboard": {
+          "paypalLabel": "paypal",
+          "paypalDescription": "paiements paypal"
+        },
+        "paymentSettings": {
+          "paypalLabel": "paypal",
+          "paypalSettingsLabel": "paypal",
+          "paypalSettingsDescription": "Vous n'avez pas de clé API paypal ?",
+          "paypalSettingsGetItHere": "Obtenez-en une ici",
+          "paypalClientIdWarning": "L'ID client est un champ PUBLIC. Assurez-vous d'utiliser le client_id trouvé sur la page de configuration paypal Connect.",
+          "paypalClientIdLink": "Paramètres de connexion paypal"
+        },
+        "connect": {
+          "paypalConnectNotEnabled": "paypal Connect n'est pas activé pour cette application. Veuillez contacter l'administrateur.",
+          "shopEmailNotConfigured": "Configurez d'abord l'e-mail de votre boutique.",
+          "shopAddressNotConfigured": "Configurez l'adresse de votre boutique d'abord",
+          "applicationFeeDescription": "Ce nombre représente un pourcentage de frais que la marketplace (cette boutique) prend pour tout objet qui est vendu par un marchand. Cette taxe s'applique uniquement si paypal Connect est configuré et activé sur la marketplace et les boutiques des marchands, et si paypal est la passerelle de paiement utilisée pour effectuer le paiement.",
+          "moreDetails": "Pour plus de détails, consultez le",
+          "docsLink": "paypal Connect Docs"
+        },
+        "redirect": {
+          "paypalConnectWaitingNote": "Vous serez redirigé automatiquement dans quelques secondes. Dans le cas contraire, cliquez ici."
+        }
+      }
+    }
+  }
+}]

@@ -1,0 +1,37 @@
+[{
+  "language": "Bulgarian",
+  "i18n": "bg",
+  "ns": "reaction-paypal",
+  "translation": {
+    "reaction-paypal": {
+      "admin": {
+        "shortcut": {
+          "paypalLabel": "paypal"
+        },
+        "dashboard": {
+          "paypalLabel": "paypal",
+          "paypalDescription": "плащания paypal"
+        },
+        "paymentSettings": {
+          "paypalLabel": "paypal",
+          "paypalSettingsLabel": "paypal",
+          "paypalSettingsDescription": "Не трябва paypal API Client ID а?",
+          "paypalSettingsGetItHere": "Вземете го от тук",
+          "paypalClientIdWarning": "Клиентският идентификационен номер е поле PUBLIC. Моля, уверете се, че използвате идентификационния номер на клиента, който сте намерили на страницата за настройки на връзката \"paypal Connect\".",
+          "paypalClientIdLink": "Настройки за свързване на лентата"
+        },
+        "connect": {
+          "paypalConnectNotEnabled": "paypal Connect не е разрешено за това приложение. Моля, свържете се с администратора.",
+          "shopEmailNotConfigured": "Моля, първо конфигурирайте имейла си за магазина.",
+          "shopAddressNotConfigured": "Моля, първо конфигурирайте вашия адрес на магазина",
+          "applicationFeeDescription": "Този номер представлява процентна такса, която пазарът (този магазин) взема за всеки продукт, който се продава от търговски магазин за този пазар. Тази такса се прилага само ако paypal Connect е инсталирана и активирана както на пазара, така и на търговските магазини и ако paypal е доставчикът на плащания, използван за извършване на поръчката.",
+          "moreDetails": "За повече подробности вижте",
+          "docsLink": "Свържете документите на лентата"
+        },
+        "redirect": {
+          "paypalConnectWaitingNote": "Ще се пренасочи автоматично след няколко секунди или щракнете тук."
+        }
+      }
+    }
+  }
+}]

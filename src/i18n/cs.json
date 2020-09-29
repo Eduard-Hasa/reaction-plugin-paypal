@@ -1,0 +1,37 @@
+[{
+  "language": "Czech",
+  "i18n": "cs",
+  "ns": "reaction-paypal",
+  "translation": {
+    "reaction-paypal": {
+      "admin": {
+        "shortcut": {
+          "paypalLabel": "paypal"
+        },
+        "dashboard": {
+          "paypalLabel": "paypal",
+          "paypalDescription": "platby paypal"
+        },
+        "paymentSettings": {
+          "paypalLabel": "paypal",
+          "paypalSettingsLabel": "paypal",
+          "paypalSettingsDescription": "Nemáte paypal API ID klienta?",
+          "paypalSettingsGetItHere": "Získat ji zde",
+          "paypalClientIdWarning": "ID klienta je pole PUBLIC. Ujistěte se, že používáte identifikátor client_id, který se nachází na stránce nastavení paypal Connect.",
+          "paypalClientIdLink": "paypal Connect Settings"
+        },
+        "connect": {
+          "paypalConnectNotEnabled": "paypal Connect není pro tuto aplikaci povoleno. Kontaktujte prosím administrátora.",
+          "shopEmailNotConfigured": "Nejprve nakonfigurujte e-mailovou adresu obchodu.",
+          "shopAddressNotConfigured": "Nejdříve prosím nakonfigurujte svou adresu obchodu",
+          "applicationFeeDescription": "Toto číslo představuje procentní poplatek, který tržiště (tento obchod) trvá za jakoukoli položku, kterou prodává obchodník pro tento trh. Tento poplatek se použije pouze v případě, že je paypal Connect nastaven a aktivován jak na tržišti, tak v prodejnách obchodníků a pokud je paypal poskytovatelem plateb použitým k provedení platby.",
+          "moreDetails": "Další podrobnosti naleznete v části",
+          "docsLink": "paypal Connect Docs"
+        },
+        "redirect": {
+          "paypalConnectWaitingNote": "Bude automatické přesměrování během několika vteřin nebo zde klikněte."
+        }
+      }
+    }
+  }
+}]

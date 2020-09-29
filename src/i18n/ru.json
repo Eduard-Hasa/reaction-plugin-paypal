@@ -1,0 +1,37 @@
+[{
+  "language": "Russian",
+  "i18n": "ru",
+  "ns": "reaction-paypal",
+  "translation": {
+    "reaction-paypal": {
+      "admin": {
+        "shortcut": {
+          "paypalLabel": "paypal"
+        },
+        "dashboard": {
+          "paypalLabel": "paypal",
+          "paypalDescription": "нашивки платежи"
+        },
+        "paymentSettings": {
+          "paypalLabel": "paypal",
+          "paypalSettingsLabel": "paypal",
+          "paypalSettingsDescription": "Не имеют нашивки API идентификатор клиента?",
+          "paypalSettingsGetItHere": "Получи это здесь",
+          "paypalClientIdWarning": "Идентификатор клиента - поле PUBLIC. Убедитесь, что вы используете client_id, найденный на странице настроек paypal Connect.",
+          "paypalClientIdLink": "Настройки соединения по полосе"
+        },
+        "connect": {
+          "paypalConnectNotEnabled": "paypal Connect для этого приложения не включен. Обратитесь к администратору.",
+          "shopEmailNotConfigured": "Сначала настройте адрес электронной почты своего магазина.",
+          "shopAddressNotConfigured": "Сначала настройте адрес магазина",
+          "applicationFeeDescription": "Этот номер представляет собой процентную плату, которую продает торговая площадка (этот магазин) за любой предмет, который продается торговым магазином для этого рынка. Эта плата применяется только в том случае, если paypal Connect настроен и включен как на рынке, так и в торговых магазинах, и если paypal является поставщиком платежей, используемым для выполнения проверки.",
+          "moreDetails": "Для получения дополнительной информации см.",
+          "docsLink": "Документы для подключения paypal Connect"
+        },
+        "redirect": {
+          "paypalConnectWaitingNote": "Будет автоматически перенаправляться через пару секунд или нажмите здесь."
+        }
+      }
+    }
+  }
+}]

@@ -1,0 +1,37 @@
+[{
+  "language": "Portuguese",
+  "i18n": "pt",
+  "ns": "reaction-paypal",
+  "translation": {
+    "reaction-paypal": {
+      "admin": {
+        "shortcut": {
+          "paypalLabel": "paypal"
+        },
+        "dashboard": {
+          "paypalLabel": "paypal",
+          "paypalDescription": "pagamentos paypal"
+        },
+        "paymentSettings": {
+          "paypalLabel": "paypal",
+          "paypalSettingsLabel": "paypal",
+          "paypalSettingsDescription": "Não temos uma listra API ID do cliente?",
+          "paypalSettingsGetItHere": "Venha aqui",
+          "paypalClientIdWarning": "O ID do cliente é um campo PÚBLICO. Certifique-se de que está usando o cliente_id encontrado na página de configurações paypal Connect.",
+          "paypalClientIdLink": "Configurações de conexão paypal"
+        },
+        "connect": {
+          "paypalConnectNotEnabled": "paypal Connect não está habilitado para esta aplicação. Entre em contato com o adminstrator.",
+          "shopEmailNotConfigured": "Por favor configure primeiro o e-mail da sua loja.",
+          "shopAddressNotConfigured": "Configure o endereço da sua loja primeiro",
+          "applicationFeeDescription": "Este número representa uma taxa percentual que o mercado (esta loja) leva para qualquer item vendido por uma loja comercial para este mercado. Esta taxa aplica-se apenas se a paypal Connect for configurada e habilitada no mercado e nas lojas comerciais e se a paypal for o provedor de pagamento usado para realizar o checkout.",
+          "moreDetails": "Para mais detalhes, veja o",
+          "docsLink": "paypal Connect Docs"
+        },
+        "redirect": {
+          "paypalConnectWaitingNote": "Redirecionará automaticamente em alguns segundos ou clique aqui."
+        }
+      }
+    }
+  }
+}]

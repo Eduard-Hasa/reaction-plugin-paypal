@@ -1,0 +1,37 @@
+[{
+  "language": "Romanian",
+  "i18n": "ro",
+  "ns": "reaction-paypal",
+  "translation": {
+    "reaction-paypal": {
+      "admin": {
+        "shortcut": {
+          "paypalLabel": "paypal"
+        },
+        "dashboard": {
+          "paypalLabel": "paypal",
+          "paypalDescription": "plăţile paypal"
+        },
+        "paymentSettings": {
+          "paypalLabel": "paypal",
+          "paypalSettingsLabel": "paypal",
+          "paypalSettingsDescription": "Nu aveți un ID client paypal API?",
+          "paypalSettingsGetItHere": "Adu-o aici",
+          "paypalClientIdWarning": "ID-ul clientului este un câmp PUBLIC. Asigurați-vă că utilizați client_id găsit pe pagina de setări Conectare paypal.",
+          "paypalClientIdLink": "paypal Connect Settings"
+        },
+        "connect": {
+          "paypalConnectNotEnabled": "paypal Connect nu este activată pentru această aplicație. Contactați administratorul.",
+          "shopEmailNotConfigured": "Vă rugăm să configurați mai întâi e-mailul magazinului.",
+          "shopAddressNotConfigured": "Vă rugăm să configurați mai întâi adresa dvs. de magazin",
+          "applicationFeeDescription": "Acest număr reprezintă o taxă procentuală pe care o are piața (acest magazin) pentru orice articol vândut de un magazin de comercianți pentru această piață. Această taxă se aplică numai dacă paypal Connect este setată și activată atât pe piață, cât și în magazinele comerciantului și dacă paypal este furnizorul de plăți utilizat pentru efectuarea plății.",
+          "moreDetails": "Pentru mai multe detalii, consultați secțiunea",
+          "docsLink": "paypal Connect Docs"
+        },
+        "redirect": {
+          "paypalConnectWaitingNote": "Va redirecționa automat în câteva secunde sau dați clic aici."
+        }
+      }
+    }
+  }
+}]

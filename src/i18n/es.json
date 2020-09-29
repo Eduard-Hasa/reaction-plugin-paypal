@@ -1,0 +1,37 @@
+[{
+  "language": "Spanish",
+  "i18n": "es",
+  "ns": "reaction-paypal",
+  "translation": {
+    "reaction-paypal": {
+      "admin": {
+        "shortcut": {
+          "paypalLabel": "paypal"
+        },
+        "dashboard": {
+          "paypalLabel": "paypal",
+          "paypalDescription": "pagos de la paypal"
+        },
+        "paymentSettings": {
+          "paypalLabel": "paypal",
+          "paypalSettingsLabel": "paypal",
+          "paypalSettingsDescription": "No tener un ID de cliente de API de la paypal?",
+          "paypalSettingsGetItHere": "Consiguelo aqui",
+          "paypalClientIdWarning": "El ID de cliente es un campo PUBLIC. Asegúrese de que utiliza el identificador de cliente encontrado en la página de configuración de paypal Connect.",
+          "paypalClientIdLink": "Configuraciones de conexión de rayas"
+        },
+        "connect": {
+          "paypalConnectNotEnabled": "paypal Connect no está habilitado para esta aplicación. Póngase en contacto con el administrador.",
+          "shopEmailNotConfigured": "Configure primero su correo electrónico de tienda.",
+          "shopAddressNotConfigured": "Configure primero la dirección de su tienda",
+          "applicationFeeDescription": "Este número representa un honorario del porcentaje que el mercado (esta tienda) toma para cualquier artículo que es vendido por una tienda mercantil para este mercado. Esta cuota sólo se aplica si paypal Connect está configurado y habilitado tanto en el mercado como en las tiendas comerciales y si paypal es el proveedor de pago utilizado para realizar la compra.",
+          "moreDetails": "Para más detalles, vea el",
+          "docsLink": "paypal Connect Docs"
+        },
+        "redirect": {
+          "paypalConnectWaitingNote": "Se redirigirá automáticamente en un par de segundos o haga clic aquí."
+        }
+      }
+    }
+  }
+}]

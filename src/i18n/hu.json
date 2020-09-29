@@ -1,0 +1,37 @@
+[{
+  "language": "Hungarian",
+  "i18n": "hu",
+  "ns": "reaction-paypal",
+  "translation": {
+    "reaction-paypal": {
+      "admin": {
+        "shortcut": {
+          "paypalLabel": "paypal"
+        },
+        "dashboard": {
+          "paypalLabel": "paypal",
+          "paypalDescription": "paypal kifizetések"
+        },
+        "paymentSettings": {
+          "paypalLabel": "paypal",
+          "paypalSettingsLabel": "paypal",
+          "paypalSettingsDescription": "Nincs még egy csík API ügyfél azonosító?",
+          "paypalSettingsGetItHere": "Szerezd meg itt",
+          "paypalClientIdWarning": "Az ügyfél-azonosító PUBLIC mező. Győződjön meg arról, hogy a paypal Connect beállításai oldalon található ügyfél_idet használja.",
+          "paypalClientIdLink": "paypal Connect beállítások"
+        },
+        "connect": {
+          "paypalConnectNotEnabled": "A paypal Connect nincs engedélyezve ehhez az alkalmazáshoz. Kérjük, lépjen kapcsolatba az adminisztrátorral.",
+          "shopEmailNotConfigured": "Kérjük, először állítsa be a bolt e-mailjét.",
+          "shopAddressNotConfigured": "Kérjük, először állítsa be üzletét",
+          "applicationFeeDescription": "Ez a szám egy százalékos díjat jelent, amelyet a piactér (ez a bolt) minden olyan tételért elvisel, amelyet egy kereskedői bolt ad el erre a piacra. Ez a díj csak akkor érvényes, ha a paypal Connect beállítása és engedélyezése mind a piacon, mind a kereskedői üzletekben, és ha a paypal a fizetés végrehajtásához használt fizetési szolgáltató.",
+          "moreDetails": "További részletekért lásd:",
+          "docsLink": "paypal Connect Dokumentumok"
+        },
+        "redirect": {
+          "paypalConnectWaitingNote": "Néhány másodperc alatt automatikusan átirányít vagy kattintson ide."
+        }
+      }
+    }
+  }
+}]

@@ -1,0 +1,37 @@
+[{
+  "language": "Vietnamese",
+  "i18n": "vi",
+  "ns": "reaction-paypal",
+  "translation": {
+    "reaction-paypal": {
+      "admin": {
+        "shortcut": {
+          "paypalLabel": "paypal"
+        },
+        "dashboard": {
+          "paypalLabel": "paypal",
+          "paypalDescription": "thanh toán paypal"
+        },
+        "paymentSettings": {
+          "paypalLabel": "paypal",
+          "paypalSettingsLabel": "paypal",
+          "paypalSettingsDescription": "Không có một ID Khách hàng sọc API?",
+          "paypalSettingsGetItHere": "Lấy nó ở đây",
+          "paypalClientIdWarning": "Client ID là một trường PUBLIC. Hãy đảm bảo rằng bạn đang sử dụng client_id được tìm thấy trên trang cài đặt Kết nối Kết nối.",
+          "paypalClientIdLink": "Cài đặt kết nối Sọc"
+        },
+        "connect": {
+          "paypalConnectNotEnabled": "Kết nối Sọc không được bật cho ứng dụng này. Vui lòng liên hệ với quản trị viên.",
+          "shopEmailNotConfigured": "Vui lòng định cấu hình email cửa hàng của bạn trước.",
+          "shopAddressNotConfigured": "Vui lòng định cấu hình địa chỉ mua hàng của bạn trước tiên",
+          "applicationFeeDescription": "Con số này thể hiện một tỷ lệ phần trăm phí mà thị trường (cửa hàng này) mất cho bất kỳ mặt hàng nào được bán bởi cửa hàng thương gia cho thị trường này. Phí này chỉ áp dụng nếu paypal Connect được thiết lập và kích hoạt trên cả thị trường và các cửa hàng bán hàng và nếu paypal là nhà cung cấp thanh toán được sử dụng để thực hiện việc thanh toán.",
+          "moreDetails": "Để biết thêm chi tiết, xem",
+          "docsLink": "Docs kết nối Docs"
+        },
+        "redirect": {
+          "paypalConnectWaitingNote": "Sẽ tự động chuyển hướng trong vài giây hoặc nhấp vào đây."
+        }
+      }
+    }
+  }
+}]

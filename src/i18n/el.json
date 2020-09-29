@@ -1,0 +1,37 @@
+[{
+  "language": "Greek",
+  "i18n": "el",
+  "ns": "reaction-paypal",
+  "translation": {
+    "reaction-paypal": {
+      "admin": {
+        "shortcut": {
+          "paypalLabel": "paypal"
+        },
+        "dashboard": {
+          "paypalLabel": "paypal",
+          "paypalDescription": "πληρωμές paypal"
+        },
+        "paymentSettings": {
+          "paypalLabel": "paypal",
+          "paypalSettingsLabel": "paypal",
+          "paypalSettingsDescription": "Δεν έχετε paypal API αναγνωριστικό πελάτη;",
+          "paypalSettingsGetItHere": "Αποκτήστε το εδώ",
+          "paypalClientIdWarning": "Το αναγνωριστικό πελάτη είναι πεδίο ΔΗΜΟΣΙΟΤΗΤΑ. Βεβαιωθείτε ότι χρησιμοποιείτε το client_id που βρίσκεται στη σελίδα ρυθμίσεων Σύνδεση paypal.",
+          "paypalClientIdLink": "Ρυθμίσεις συνδέσεων paypal"
+        },
+        "connect": {
+          "paypalConnectNotEnabled": "Το paypal Connect δεν είναι ενεργοποιημένο για αυτήν την εφαρμογή. Επικοινωνήστε με το διαχειριστή.",
+          "shopEmailNotConfigured": "Ρυθμίστε πρώτα το ηλεκτρονικό ταχυδρομείο του καταστήματος.",
+          "shopAddressNotConfigured": "Ρυθμίστε πρώτα τη διεύθυνση του καταστήματός σας",
+          "applicationFeeDescription": "Αυτός ο αριθμός αντιπροσωπεύει μια ποσοστιαία αμοιβή που η αγορά (αυτό το κατάστημα) παίρνει για οποιοδήποτε αντικείμενο που πωλείται από ένα κατάστημα εμπόρων για αυτήν την αγορά. Αυτή η χρέωση ισχύει μόνο αν το πρόγραμμα paypal Connect έχει ρυθμιστεί και ενεργοποιηθεί τόσο στην αγορά όσο και στα καταστήματα εμπόρων και αν ο paypal είναι ο πάροχος πληρωμών που χρησιμοποιείται για την εκτέλεση του ελέγχου.",
+          "moreDetails": "Για περισσότερες λεπτομέρειες, ανατρέξτε στο",
+          "docsLink": "Συνδέστε τα Έγγραφα με το paypal"
+        },
+        "redirect": {
+          "paypalConnectWaitingNote": "Θα ανακατευθύνει αυτόματα σε μερικά δευτερόλεπτα ή κάντε κλικ εδώ."
+        }
+      }
+    }
+  }
+}]

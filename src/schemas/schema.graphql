@@ -1,0 +1,28 @@
+"Data for a Paypal card payment"
+type PaypalPaymentData {
+
+  "The Paypal payment ID"
+  paymentID: String!
+
+  "The Token of payment"
+  paymentToken:String
+
+  "payer ID"
+  payerID:String
+}
+
+extend union PaymentData = PaypalPaymentData
+
+extend enum PaymentMethodName {
+  paypal
+}
+type PaypalConfigClient{
+  "Mode Sandbox Or Live"
+  mode: String!
+  "Client ID"
+  client_id:String!
+}
+extend type Query {
+  "Get Paypal Client Id For Api JS Web"
+  getPaypalConfigClient(shopId: ID) : PaypalConfigClient!
+}

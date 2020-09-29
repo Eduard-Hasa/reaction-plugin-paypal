@@ -1,0 +1,37 @@
+[{
+  "language": "Dutch",
+  "i18n": "nl",
+  "ns": "reaction-paypal",
+  "translation": {
+    "reaction-paypal": {
+      "admin": {
+        "shortcut": {
+          "paypalLabel": "paypal"
+        },
+        "dashboard": {
+          "paypalLabel": "paypal",
+          "paypalDescription": "paypal betalingen"
+        },
+        "paymentSettings": {
+          "paypalLabel": "paypal",
+          "paypalSettingsLabel": "paypal",
+          "paypalSettingsDescription": "Heb je geen paypal API Client ID?",
+          "paypalSettingsGetItHere": "Krijg het hier",
+          "paypalClientIdWarning": "De Client ID is een PUBLIC veld. Zorg ervoor dat u de client_id gebruikt die wordt gevonden op de pagina Stripinstellingen.",
+          "paypalClientIdLink": "Streepverbindingsinstellingen"
+        },
+        "connect": {
+          "paypalConnectNotEnabled": "paypal Connect is niet ingeschakeld voor deze toepassing. Neem contact op met de beheerder.",
+          "shopEmailNotConfigured": "Configureer eerst uw winkel e-mail.",
+          "shopAddressNotConfigured": "Configureer eerst uw winkeladres",
+          "applicationFeeDescription": "Dit nummer vertegenwoordigt een percentage vergoeding dat de markt (deze winkel) kost voor elk item dat door een winkel voor deze markt wordt verkocht. Deze vergoeding is alleen van toepassing indien paypal Connect is ingesteld en ingeschakeld op zowel de markt als de winkels en als paypal de betalingsaanbieder is die gebruikt werd om de kassa uit te voeren.",
+          "moreDetails": "Voor meer details, zie de",
+          "docsLink": "paypal Connect Docs"
+        },
+        "redirect": {
+          "paypalConnectWaitingNote": "Zet automatisch een paar seconden omverwijzen of klik hier."
+        }
+      }
+    }
+  }
+}]

@@ -1,0 +1,37 @@
+[{
+  "language": "Swedish",
+  "i18n": "sv",
+  "ns": "reaction-paypal",
+  "translation": {
+    "reaction-paypal": {
+      "admin": {
+        "shortcut": {
+          "paypalLabel": "paypal"
+        },
+        "dashboard": {
+          "paypalLabel": "paypal",
+          "paypalDescription": "paypal betalningar"
+        },
+        "paymentSettings": {
+          "paypalLabel": "paypal",
+          "paypalSettingsLabel": "paypal",
+          "paypalSettingsDescription": "Inte ha en paypal API-klient-ID?",
+          "paypalSettingsGetItHere": "Få det här",
+          "paypalClientIdWarning": "Klient-id är ett offentligt fält. Se till att du använder client_id som finns på sidan paypal Connect-inställningar.",
+          "paypalClientIdLink": "paypal Connect-inställningar"
+        },
+        "connect": {
+          "paypalConnectNotEnabled": "paypal Connect är inte aktiverat för den här applikationen. Vänligen kontakta administratören.",
+          "shopEmailNotConfigured": "Konfigurera din butiks e-post först.",
+          "shopAddressNotConfigured": "Vänligen konfigurera din butiksadress först",
+          "applicationFeeDescription": "Detta nummer representerar en procentsatsavgift som marknadsplatsen (den här butiken) tar för varje föremål som säljs av en handelshandlare för denna marknad. Denna avgift gäller endast om paypal Connect är inställd och aktiverad på både marknadsplatsen och butikerna och om paypal är betalningsleverantör som används för att utföra kassan.",
+          "moreDetails": "För mer information, se",
+          "docsLink": "paypal Connect Docs"
+        },
+        "redirect": {
+          "paypalConnectWaitingNote": "Kommer automatiskt omdirigera om några sekunder eller klicka här."
+        }
+      }
+    }
+  }
+}]

@@ -1,0 +1,37 @@
+[{
+  "language": "Italian",
+  "i18n": "it",
+  "ns": "reaction-paypal",
+  "translation": {
+    "reaction-paypal": {
+      "admin": {
+        "shortcut": {
+          "paypalLabel": "paypal"
+        },
+        "dashboard": {
+          "paypalLabel": "paypal",
+          "paypalDescription": "pagamenti paypal"
+        },
+        "paymentSettings": {
+          "paypalLabel": "paypal",
+          "paypalSettingsLabel": "paypal",
+          "paypalSettingsDescription": "Non hai ancora un ID client paypal API?",
+          "paypalSettingsGetItHere": "Prendilo qui",
+          "paypalClientIdWarning": "L'ID cliente è un campo PUBBLICO. Assicurati di utilizzare il client_id trovato nella pagina delle impostazioni di paypal Connect.",
+          "paypalClientIdLink": "Impostazioni di collegamento della striscia"
+        },
+        "connect": {
+          "paypalConnectNotEnabled": "paypal Connect non è abilitata per questa applicazione. Si prega di contattare l'amministratore.",
+          "shopEmailNotConfigured": "Si prega di configurare prima la tua email del negozio.",
+          "shopAddressNotConfigured": "Si prega di configurare l'indirizzo del negozio innanzitutto",
+          "applicationFeeDescription": "Questo numero rappresenta una quota percentuale che il mercato (questo negozio) prende per qualsiasi articolo venduto da un negozio di mercanti per questo mercato. Questa tassa si applica solo se paypal Connect è configurato e abilitato sia sul mercato che nei negozi commerciali e se paypal è il provider di pagamento utilizzato per eseguire la cassa.",
+          "moreDetails": "Per ulteriori dettagli, vedere la pagina",
+          "docsLink": "paypal Connect Documenti"
+        },
+        "redirect": {
+          "paypalConnectWaitingNote": "Verrà reindirizzato automaticamente in un paio di secondi o clicca qui."
+        }
+      }
+    }
+  }
+}]

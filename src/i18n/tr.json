@@ -1,0 +1,37 @@
+[{
+  "language": "Turkish",
+  "i18n": "tr",
+  "ns": "reaction-paypal",
+  "translation": {
+    "reaction-paypal": {
+      "admin": {
+        "shortcut": {
+          "paypalLabel": "paypal"
+        },
+        "dashboard": {
+          "paypalLabel": "paypal",
+          "paypalDescription": "paypal ödemeleri"
+        },
+        "paymentSettings": {
+          "paypalLabel": "paypal",
+          "paypalSettingsLabel": "paypal",
+          "paypalSettingsDescription": "Bir şerit API İstemci Kimliği yok mu?",
+          "paypalSettingsGetItHere": "Burada Get it",
+          "paypalClientIdWarning": "Müşteri Kimliği, KAMU alanıdır. Lütfen paypal Connect ayarları sayfasındaki client_id dosyasını kullandığınızdan emin olun.",
+          "paypalClientIdLink": "Şerit Bağlantı Ayarları"
+        },
+        "connect": {
+          "paypalConnectNotEnabled": "Bu uygulama için Şerit Bağlantı etkinleştirilmemiştir. Lütfen yönetici ile iletişime geçin.",
+          "shopEmailNotConfigured": "Lütfen dükkanınızın e-postasını önce yapılandırın.",
+          "shopAddressNotConfigured": "Lütfen önce alışveriş adresinizi yapılandırın",
+          "applicationFeeDescription": "Bu sayı, pazarın (bu mağazanın) bu pazar için bir tüccar dükkanı tarafından satılan her öğenin aldığı bir yüzdelik ücreti temsil etmektedir. Bu ücret sadece paypal Connect'in hem pazarda hem de tüccar dükkanlarında kurulması ve etkinleştirilmesi durumunda ve Şerit ödeme yapmak için kullanılan ödeme sağlayıcısı ise geçerlidir.",
+          "moreDetails": "Daha fazla bilgi için bkz.",
+          "docsLink": "paypal Connect Dokümanlar"
+        },
+        "redirect": {
+          "paypalConnectWaitingNote": "Otomatik birkaç saniye içinde yönlendirecektir veya buraya tıklayın."
+        }
+      }
+    }
+  }
+}]

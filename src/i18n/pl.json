@@ -1,0 +1,37 @@
+[{
+  "language": "Polish",
+  "i18n": "pl",
+  "ns": "reaction-paypal",
+  "translation": {
+    "reaction-paypal": {
+      "admin": {
+        "shortcut": {
+          "paypalLabel": "paypal"
+        },
+        "dashboard": {
+          "paypalLabel": "paypal",
+          "paypalDescription": "płatności paypal"
+        },
+        "paymentSettings": {
+          "paypalLabel": "paypal",
+          "paypalSettingsLabel": "paypal",
+          "paypalSettingsDescription": "Nie masz paypal API identyfikator klienta?",
+          "paypalSettingsGetItHere": "Pobierz go tutaj",
+          "paypalClientIdWarning": "Identyfikatorem klienta jest pole PUBLIC. Sprawdź, czy używasz identyfikatora klienta znalezionego na stronie ustawień paypal Connect.",
+          "paypalClientIdLink": "paypal Connect Settings"
+        },
+        "connect": {
+          "paypalConnectNotEnabled": "paypal Connect nie jest włączona dla tej aplikacji. Proszę skontaktować się z administratorem.",
+          "shopEmailNotConfigured": "Najpierw skonfiguruj swój sklep e-mail.",
+          "shopAddressNotConfigured": "Proszę najpierw skonfigurować adres sklepu",
+          "applicationFeeDescription": "Liczba ta odpowiada procentowej opłacie, że rynek (ten sklep) zajmuje się wszystkimi rzeczami sprzedanymi przez sklep dla tego rynku. Opłata ta ma zastosowanie tylko w przypadku, gdy paypal Connect jest skonfigurowany i włączony zarówno na placu targowym, jak i w sklepach handlowych i jeśli firma paypal jest dostawcą usług płatniczych stosowanym do realizacji transakcji.",
+          "moreDetails": "Aby uzyskać więcej informacji, zobacz",
+          "docsLink": "paypal Connect Docs"
+        },
+        "redirect": {
+          "paypalConnectWaitingNote": "Czy przekieruje auto w ciągu kilku sekund lub kliknij tutaj."
+        }
+      }
+    }
+  }
+}]

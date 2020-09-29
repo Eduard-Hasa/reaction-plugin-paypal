@@ -1,0 +1,21 @@
+[{
+  "language": "Bokmål",
+  "i18n": "nb",
+  "ns": "reaction-paypal",
+  "translation": {
+    "reaction-paypal": {
+      "admin": {
+        "shortcut": {
+          "paypalLabel": "paypal"
+        },
+        "dashboard": {
+          "paypalLabel": "paypal"
+        },
+        "paymentSettings": {
+          "paypalLabel": "paypal",
+          "paypalSettingsLabel": "paypal"
+        }
+      }
+    }
+  }
+}]

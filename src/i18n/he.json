@@ -1,0 +1,24 @@
+[{
+  "language": "Hebrew",
+  "i18n": "he",
+  "ns": "reaction-paypal",
+  "translation": {
+    "reaction-paypal": {
+      "admin": {
+        "shortcut": {
+          "paypalLabel": "paypal"
+        },
+        "dashboard": {
+          "paypalLabel": "paypal",
+          "paypalDescription": "תשלומי paypal"
+        },
+        "paymentSettings": {
+          "paypalLabel": "paypal",
+          "paypalSettingsLabel": "paypal",
+          "paypalSettingsDescription": "אין לך מזהה לקוח paypal API?",
+          "paypalSettingsGetItHere": "קבל אותו/ה כאן"
+        }
+      }
+    }
+  }
+}]
