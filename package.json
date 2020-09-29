@@ -1,27 +1,27 @@
 {
-  "name": "@reactioncommerce/api-plugin-payments-paypal",
+  "name": "@reactioncommerce/reaction-plugin-paypal",
   "description": "paypal Payments plugin for the Reaction API",
-  "version": "0.0.0-development",
+  "version": "0.0.1",
   "main": "index.js",
   "type": "module",
   "engines": {
     "node": ">=12.14.1"
   },
-  "homepage": "https://github.com/idigi/api-plugin-payments-paypal",
-  "url": "https://github.com/idigi/api-plugin-payments-paypal",
-  "email": "engineering@reactioncommerce.com",
+  "homepage": "https://github.com/idigi-dev/reaction-plugin-paypal",
+  "url": "https://github.com/idigi-dev/reaction-plugin-paypal",
+  "email": "engineering@idigi.dev",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/idigi/api-plugin-payments-paypal.git"
+    "url": "git+https://github.com/idigi-dev/reaction-plugin-paypal.git"
   },
   "author": {
-    "name": "Reaction Commerce",
-    "email": "engineering@reactioncommerce.com",
+    "name": "iDigi.dev",
+    "email": "engineering@idigi.dev",
     "url": "https://idigi.dev"
   },
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/idigi/api-plugin-payments-paypal/issues"
+    "url": "https://github.com/idigi-dev/reaction-plugin-paypal/issues"
   },
   "sideEffects": false,
   "dependencies": {
