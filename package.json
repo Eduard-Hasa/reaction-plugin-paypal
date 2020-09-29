@@ -1,5 +1,5 @@
 {
-  "name": "@reactioncommerce/reaction-plugin-paypal",
+  "name": "@idigi/reaction-plugin-paypal",
   "description": "paypal Payments plugin for the Reaction API",
   "version": "0.0.1",
   "main": "index.js",
